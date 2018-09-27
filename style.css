@@ -1,13 +1,13 @@
 
 body { 
       color: #00b3e6;
+      background-color: #00b3e6
 }
 
 div {
   width: 700; 
   margin: auto;
   font-family: "Helvetica Neue"
-  background-color: #00b3e6
   padding: 30px;
 }
 
