@@ -4,7 +4,11 @@ body {
 }
 
 div {
-  width: 700; margin
+  width: 700; 
+  margin: auto;
+  font-family: "Helvetica Neue"
+  background: white;
+  padding: 30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
